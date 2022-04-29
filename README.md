@@ -25,7 +25,7 @@ The results for each model are as follows:
 * **Precision Score:** 		0.99 (Average), 0.01 (High Risk), 1 (Low Risk)
 * **Recall Score:** 		0.69 (Average), 0.56 (High Risk), 0.69 (Low Risk)
 
-![Figure 1](https://github.com/CR-HSDC/cryptocurrencies/blob/main/resources/Fig1_RandomOverSampler.png)
+![Figure 1](https://github.com/CR-HSDC/Credit_Risk_Analysis/blob/main/resources/Fig1_RandomOverSampler.png)
 
 **_Figure 1_:** RandomOverSampler Summary Statistics
 
@@ -35,7 +35,7 @@ The results for each model are as follows:
 * **Precision Score**:		0.99 (Average), 0.01 (High Risk), 1 (Low Risk)
 * **Recall Score**:		0.66 (Average), 0.67 (High Risk), 0.66 (Low Risk)
 	
-![Figure 2](https://github.com/CR-HSDC/cryptocurrencies/blob/main/resources/Fig2_SMOTE.png)
+![Figure 2](https://github.com/CR-HSDC/Credit_Risk_Analysis/blob/main/resources/Fig2_SMOTE.png)
 
 **_Figure 2_:** SMOTE Summary Statistics
 	
@@ -44,7 +44,7 @@ The results for each model are as follows:
 * **Precision Score:**		0.99 (Average), 0.01 (High Risk), 1 (Low Risk)
 * **Recall Score:**		0.45 (Average), 0.61 (High Risk), 0.45 (Low Risk)
 
-![Figure 3](https://github.com/CR-HSDC/cryptocurrencies/blob/main/resources/Fig3_ClusterCentroids.png)
+![Figure 3](https://github.com/CR-HSDC/Credit_Risk_Analysis/blob/main/resources/Fig3_ClusterCentroids.png)
 
 **_Figure 3_:** ClusterCentroids Summary Statistics
 
@@ -54,7 +54,7 @@ The results for each model are as follows:
 * **Precision Score:** 		0.99 (Average), 0.01 (High Risk), 1 (Low Risk)
 * **Recall Score:**		0.57 (Average), 0.7 (High Risk), 1 (Low Risk)
 
-![Figure 4](https://github.com/CR-HSDC/cryptocurrencies/blob/main/resources/Fig4_SMOTEENN.png)
+![Figure 4](https://github.com/CR-HSDC/Credit_Risk_Analysis/blob/main/resources/Fig4_SMOTEENN.png)
 
 **_Figure 4_:** SMOTEENN Summary Statistics
 
@@ -63,7 +63,7 @@ The results for each model are as follows:
 * **Precision Score:**		0.99 (Average), 0.04 (High Risk), 1 (Low Risk)
 * **Recall Score:**		0.91 (Average), 0.67 (High Risk), 0.91 (Low Risk)
 
-![Figure 5](https://github.com/CR-HSDC/cryptocurrencies/blob/main/resources/Fig5_BalancedRandomForestClassifier.png)
+![Figure 5](https://github.com/CR-HSDC/Credit_Risk_Analysis/blob/main/resources/Fig5_BalancedRandomForestClassifier.png)
 
 **_Figure 5_:** BalancedRandomForrestClassifier Summary Statistics
 
@@ -72,14 +72,14 @@ The results for each model are as follows:
 * **Precision Score:**		0.99 (Average), 0.07 (High Risk), 1 (Low Risk)
 * **Recall Score:**		0.94 (Average), 0.91 (High Risk), 0.94 (Low Risk)
 
-![Figure 6](https://github.com/CR-HSDC/cryptocurrencies/blob/main/resources/Fig6_EasyEnsembleClassifer.png)
+![Figure 6](https://github.com/CR-HSDC/Credit_Risk_Analysis/blob/main/resources/Fig6_EasyEnsembleClassifer.png)
 
 **_Figure 6_:** EasyEnsembleClassifier Summary Statistics
 
 
 ## Summary 
 
-![Figure 7](https://github.com/CR-HSDC/cryptocurrencies/blob/main/resources/Fig7_Summary.png)
+![Figure 7](https://github.com/CR-HSDC/Credit_Risk_Analysis/blob/main/resources/Fig7_Summary.png)
 **_Figure 7_:** Model Summary Statistics
 
 ***Figure 7*** provides a summary of results for all models used in this summary.
